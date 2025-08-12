@@ -1,2 +1,2 @@
 Here is a project done while I was at UCLA in the spring semester of 2025. 
-I implemented and optimized a VQE instantiation for solving the H2 ground state using OpenFermion and PyQuil on Rigetti's Ankaa-3 QPU.
+I implemented and optimized a VQE instantiation for solving the H2 ground state using OpenFermion and PyQuil on Rigetti's Ankaa-3 QPU. The QPU-parametric file shows my fully optimized instantiation using manual qubit selection on the lattice and parametric compilation. QPU-static contains the static compilation version of this.
