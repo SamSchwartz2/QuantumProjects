@@ -12,5 +12,5 @@ more_decoherence.ipynb: You guessed it!
 
 rwa_timeev.ipynb: Rotating wave approximation time evolution and other quantum state time evolutions
 
-
+split_dsp: spiritual continuation of b92 - this notebook shows the power of photon splitting attacks and the decoy state protocl as an effective defense mechanism against such attacks
 
