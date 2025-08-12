@@ -2,6 +2,8 @@ This is a loose collection of some more quantum physics-focused notebooks I've w
 
 aho_jch.ipynb: Anharmonic Oscillator and James Cummings Hamiltonian evolutions
 
+b92.ipynb: B92 QKD scheme both with and wihtout Eve's intercepting presence
+
 decoherence.ipynb: Qubit decoherence from excited to ground state
 
 disp_ramset.ipynb: Displacement operator phase space diagrams and Ramsey spectroscopy analysis of a quantum harmonic oscillator
