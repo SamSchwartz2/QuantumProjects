@@ -6,6 +6,8 @@ decoherence.ipynb: Qubit decoherence from excited to ground state
 
 disp_ramset.ipynb: Displacement operator phase space diagrams and Ramsey spectroscopy analysis of a quantum harmonic oscillator
 
+more_decoherence.ipynb: You guessed it!
+
 rwa_timeev.ipynb: Rotating wave approximation time evolution and other quantum state time evolutions
 
 
